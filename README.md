@@ -1,6 +1,6 @@
 # Proyecto GitHub Classroom API
 
-Este proyecto utiliza la API de GitHub Classroom para obtener información sobre aulas,
+Este proyecto utiliza la API de [GitHub Classroom](https://classroom.github.com/) para obtener información sobre aulas,
 asignaciones y calificaciones. Es solo jugar con un poco la API de classroom que puedes encontrar
 [aquí](https://docs.github.com/es/rest/classroom/classroom?apiVersion=2022-11-28)
 
