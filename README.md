@@ -1,8 +1,8 @@
 # Proyecto GitHub Classroom API
 
-Este proyecto utiliza la API de [GitHub Classroom](https://classroom.github.com/) para obtener información sobre aulas,
-asignaciones y calificaciones. Es solo jugar con un poco la API de classroom que puedes encontrar
-[aquí](https://docs.github.com/es/rest/classroom/classroom?apiVersion=2022-11-28)
+En el GYM, estamos trabajando para mejorar la experiencia, y estamos explorando [GitHub Classroom](https://classroom.github.com/) con el objetivo de cumplir con los requisitos de [este proyecto específico](https://github.com/orgs/Laboratoria/projects/30).
+
+Este proyecto utiliza la [API de GitHub Classroom](https://docs.github.com/es/rest/classroom/classroom?apiVersion=2022-11-28) para obtener información sobre clases y asignaciones. Estamos investigando si a través de este servicio y su API podemos satisfacer los requisitos planteados en el GYM.
 
 ## Configuración
 
