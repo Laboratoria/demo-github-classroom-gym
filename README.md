@@ -41,7 +41,7 @@ Estas funciones se combinan en la función `execute`, que ejecuta las llamadas a
 Para utilizar el proyecto, simplemente ejecuta el siguiente comando:
 
 ```bash
-spm start
+npm start
 ```
 
 Esto ejecutará el script, obteniendo información sobre la primera aula, sus asignaciones y las calificaciones de la primera asignación.
