@@ -106,4 +106,4 @@ El resultado al ejecutar el script debe ser similar a este:
 
 ## Notas adicionales
 
-Es una pruebay creo que la API de Github Classroom sería genial para seguir nuestro progreso en el GYM. Aquí hay una [lista de videos](https://www.youtube.com/watch?v=xVVeqIDgCvM&list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u) para obtener más detalles. Gracias por echarle un vistazo.
+Es una prueba,  creo que la API de Github Classroom sería genial para seguir nuestro progreso en el GYM. Aquí hay una [lista de videos](https://www.youtube.com/watch?v=xVVeqIDgCvM&list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u) para obtener más detalles. Gracias por echarle un vistazo.
